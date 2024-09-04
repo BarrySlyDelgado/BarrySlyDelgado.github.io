@@ -3,8 +3,8 @@ layout: default
 ---
 
 [Publications](./another-page.html)|
-[Google Scholar](./another-page.html)|
-[Linkedin](./another-page.html)|
+[Google Scholar](https://scholar.google.com/citations?user=Zy8_mrwAAAAJ&hl=en)|
+[Linkedin](https://www.linkedin.com/in/barry-sly-delgado-486b67134/)|
 
 # About
 

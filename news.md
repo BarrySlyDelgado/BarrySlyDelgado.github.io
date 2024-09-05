@@ -6,5 +6,5 @@ layout: default
 
 # News
 
-[Supercomputing Paper Accepted]({% post_url 2024-09-05-SC-24 %})
+[Supercomputing Paper Accepted]({% post_url 2024-09-05-sc-accept %})
 

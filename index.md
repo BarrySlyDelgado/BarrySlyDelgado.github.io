@@ -15,20 +15,27 @@ I am a Ph.D. student studying Computer Science at the University of Notre Dame. 
 
 
 
-## University of Notre Dame
+### University of Notre Dame
 
-## Lawerence Livermore National Laboratory
+Research Assistant:
 
-## University of Minnesota
+### Lawerence Livermore National Laboratory
 
-## University of West Florida
+Computing Graduate Intern: June 2024 - August 2024
+
+### University of Minnesota
+
+REU Student Researcher: May 2020 - August 2020
+
+### University of West Florida
+
+Research Assistant: March 2019 - December 2020
 
 
 # Education 
 
-## University of Notre Dame
+### University of Notre Dame
 
-## University of West Florida
+### University of West Florida
 
-#![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) ## hello
 

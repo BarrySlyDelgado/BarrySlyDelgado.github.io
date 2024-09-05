@@ -44,9 +44,10 @@ Ph.D. Computer Science & Engineering: August 2021 - Present
 
 B.S. Computer Science (Minor: Mathematics): August 2016 - December 2020
 
-# Awards:
+# Awards
 
 University of Notre Dame: Dean's Fellowship
+
 University of West Florida: Cybersecurity Scholarship
 
 

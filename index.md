@@ -50,5 +50,6 @@ University of Notre Dame: Dean's Fellowship
 
 University of West Florida: Cybersecurity Scholarship
 {% post_url 2012-09-12-how-to-write-a-blog %}
+[Name of Link]({% post_url 2012-09-12-how-to-write-a-blog %})
 
 

@@ -49,6 +49,6 @@ B.S. Computer Science (Minor: Mathematics): August 2016 - December 2020
 University of Notre Dame: Dean's Fellowship
 
 University of West Florida: Cybersecurity Scholarship
-[Name of Link]({% post_url 2012-09-12-how-to-write-a-blog %})
+
 
 

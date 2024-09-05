@@ -8,7 +8,7 @@ layout: default
 
 # About
 
-I am a Ph.D. student studying Computer Science at the University of Notre Dame. I am advised by Dr. Douglas Thain within the [Cooperative Computing Lab](https://ccl.cse.nd.edu/). My current reaseach interests broadly include Distributed Computing, Scientific Workflows, Data Management, Data Provenance, and Filesystems.
+I am a Ph.D. student studying Computer Science at the University of Notre Dame. I am advised by Dr. Douglas Thain within the [Cooperative Computing Lab](https://ccl.cse.nd.edu/). My current reseach interests broadly include Distributed Computing, Scientific Workflows, Data Management, Data Provenance, and Filesystems.
 
 # Experience
 ### University of Notre Dame

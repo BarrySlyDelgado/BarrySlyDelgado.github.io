@@ -13,8 +13,22 @@ I am a Ph.D. student studying Computer Science at the University of Notre Dame. 
 # Experience
 
 
+
+
+## University of Notre Dame
+
+## Lawerence Livermore National Laboratory
+
+## University of Minnesota
+
+## University of West Florida
+
+
 # Education 
 
+## University of Notre Dame
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) ## hello
+## University of West Florida
+
+#![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) ## hello
 

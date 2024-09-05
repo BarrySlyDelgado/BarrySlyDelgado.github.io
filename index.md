@@ -16,5 +16,5 @@ I am a Ph.D. student studying Computer Science at the University of Notre Dame. 
 # Education 
 
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) hello
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) ## hello
 

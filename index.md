@@ -3,6 +3,7 @@ layout: default
 ---
 
 [Publications](./publications.html)|
+[News](./news.html)|
 [Google Scholar](https://scholar.google.com/citations?user=Zy8_mrwAAAAJ&hl=en)|
 [Linkedin](https://www.linkedin.com/in/barry-sly-delgado-486b67134/)|
 
@@ -14,6 +15,8 @@ I am a Ph.D. student studying Computer Science at the University of Notre Dame. 
 ### University of Notre Dame
 
 Research Assistant: June 2021 - Present
+
+Teaching Assistant - Distributed Systems: August 2024 - Present
 
 Teaching Assistant - Discrete Mathematics: August 2021 - December 2021
 
@@ -40,5 +43,10 @@ Ph.D. Computer Science & Engineering: August 2021 - Present
 ### University of West Florida
 
 B.S. Computer Science (Minor: Mathematics): August 2016 - December 2020
+
+# Awards:
+
+University of Notre Dame: Dean's Fellowship
+University of West Florida: Cybersecurity Scholarship
 
 

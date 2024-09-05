@@ -14,10 +14,12 @@ I am a Ph.D. student studying Computer Science at the University of Notre Dame. 
 ### University of Notre Dame
 
 Research Assistant: June 2021 - Present
+
 Teaching Assistant - Discrete Mathematics: August 2021 - December 2021
+
 Teaching Assistant - Operating Systems: January 2022 - May 2022
 
-### Lawerence Livermore National Laboratory
+### Lawrence Livermore National Laboratory
 
 Computing Graduate Intern: June 2024 - August 2024
 

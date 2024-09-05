@@ -20,6 +20,7 @@ I am a Ph.D. student studying Computer Science at the University of Notre Dame. 
 Research Assistant:
 
 ### Lawerence Livermore National Laboratory
+![Octocat](/assets/img/llnl.png)
 
 Computing Graduate Intern: June 2024 - August 2024
 
@@ -29,7 +30,6 @@ REU Student Researcher: May 2020 - August 2020
 
 ### University of West Florida
 ![Octocat](/assets/img/UWF_LOGO.png)
-
 Research Assistant: March 2019 - December 2020
 
 

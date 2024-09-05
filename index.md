@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Publications](./another-page.html)|
+[Publications](./publications.html)|
 [Google Scholar](https://scholar.google.com/citations?user=Zy8_mrwAAAAJ&hl=en)|
 [Linkedin](https://www.linkedin.com/in/barry-sly-delgado-486b67134/)|
 

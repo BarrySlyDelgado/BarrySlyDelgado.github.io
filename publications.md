@@ -6,7 +6,7 @@ layout: default
 
 # Publications
 
-6.)
+6.) Sly-Delgado, B., Tovar, B., Zhou, J., & Thain, D. (2024, November). Reshaping High Energy Physics Applications for Near-Interactive Execution Using TaskVine. In Proceedings of SC’24 The International Conference on High Performance Computing, Network, Storage, and Analysis. (to appear) [pdf]
 
 5.) Sly-Delgado, B., Phung, T. S., Thomas, C., Simonetti, D., Hennessee, A., Tovar, B., & Thain, D. (2023, November). Taskvine: Managing in-cluster storage for high-throughput data intensive workflows. In Proceedings of the SC'23 Workshops of The International Conference on High Performance Computing, Network, Storage, and Analysis (pp. 1978-1988). [pdf]
 

@@ -46,7 +46,7 @@ B.S. Computer Science (Minor: Mathematics): August 2016 - December 2020
 
 # Awards
 
-University of Notre Dame: Dean's Fellowship
+University of Notre Dame: Deans' Fellowship
 
 University of West Florida: Cybersecurity Scholarship
 
